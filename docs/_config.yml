@@ -9,8 +9,10 @@
 title: A Blog on Data Analytics
 email: kazmialiarsalan@gmail.com
 description: Ali Arsalan Kazmi
-baseurl: "/CNN_Scale_problem/tree/master" # the subpath of your site, e.g. /blog
-url: "http://github.com/henrychacon" # the base hostname & protocol for your site
+baseurl: "/CNN_Scale_problem/blob/master" # the subpath of your site, e.g. /blog
+
+
+url: "https://github.com/henrychacon/" # the base hostname & protocol for your site
 twitter_username: scac1041
 github_username:  henrychacon
 disqus_shortname: henrychacon
