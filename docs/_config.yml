@@ -1,9 +1,11 @@
-theme: jekyll-theme-slate
-baseurl: CNN_Scale_problem
-name: Jekyll • Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
-url: https://jekyllrb.com
-repository: https://github.com/jekyll/jekyll
-timezone: America/Los_Angeles
-twitter:
-  username: jekyllrb
+title: beta.gouv.fr
+email: contact@beta.gouv.fr
+description: Nous créons des services publics numériques
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://beta.gouv.fr # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: BetaGouv
+github_username:  betagouv
+github_repository: BetaGouv/beta.gouv.fr
+
+# Build settings
+markdown: kramdown
