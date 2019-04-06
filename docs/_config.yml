@@ -9,3 +9,5 @@ github_repository: BetaGouv/beta.gouv.fr
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-slate
