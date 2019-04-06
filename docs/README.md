@@ -10,7 +10,7 @@ Prueba
 
 Cambio de fila
 
-<img src="{{site.url}}/images/ErrorLayer.png" alt="Ph" title="Philadelphi" />
+<img src="{{ site.baseurl }}/images/ErrorLayer.png" alt="Ph" title="Philadelphi" />
 
 Se metio la imagen con html
 
