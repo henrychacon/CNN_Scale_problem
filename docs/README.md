@@ -9,3 +9,5 @@ Pasamos
 Prueba
 
 Cambio de fila
+
+![imagen](https://github.com/vdumoulin/conv_arithmetic/blob/master/gif/arbitrary_padding_no_strides.gif)
