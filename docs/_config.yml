@@ -12,7 +12,7 @@ description: Ali Arsalan Kazmi
 baseurl: "/CNN_Scale_problem" # the subpath of your site, e.g. /blog
 
 
-url: "https://github.com/henrychacon/" # the base hostname & protocol for your site
+url: "https://henrychacon.github.io/" # the base hostname & protocol for your site
 twitter_username: scac1041
 github_username:  henrychacon
 disqus_shortname: henrychacon
