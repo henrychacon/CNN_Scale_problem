@@ -8,6 +8,6 @@ twitter_username: BetaGouv
 #github_repository: BetaGouv/beta.gouv.fr
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
 
